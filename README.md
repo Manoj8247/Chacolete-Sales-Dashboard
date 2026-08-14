@@ -21,7 +21,7 @@ The dashboard provides an interactive view of:
 
 ## Dashboard Preview
 
-![Chocolate Sales Dashboard](./Screenshot%202026-08-14%20233625.png)
+![Chocolate Sales Dashboard](./dashboard-preview.png)
 
 ## Key Insights
 
